@@ -1,4 +1,7 @@
-
+<!-- União Metropolitana de Educação e Cultura 
+Bacharelado em Sistemas de Informação 
+Programação para Web II
+Tiago Nogueira Peixoto -->
 
 <?php session_start(); ?>
 <?php include_once 'includes/header.inc.php' ?>
